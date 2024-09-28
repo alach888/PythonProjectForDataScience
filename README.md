@@ -1,2 +1,2 @@
 # PythonProjectForDataScience
-Final project for the Python Project for Data Science course
+Final project for the Python Project for Data Science course from Coursera
